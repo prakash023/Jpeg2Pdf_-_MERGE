@@ -1,2 +1,2 @@
-# Jpeg2Pdf_N_MERGE
-Convert jpeg files to pdf and merge 
+# Jpeg2Pdf_MERGE 
+Convert the jpeg files to pdf and merge it as one
